@@ -1,0 +1,1842 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  5 NOV 2022 03:09
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**JFM.tex
+(./JFM.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(e:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(e:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(e:/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(e:/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(e:/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(e:/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(e:/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks17
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(e:/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(e:/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(e:/texlive/2022/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(e:/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(e:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box52
+\extrarowheight=\dimen149
+\NC@list=\toks21
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
+)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(e:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+(e:/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen150
+\lightrulewidth=\dimen151
+\cmidrulewidth=\dimen152
+\belowrulesep=\dimen153
+\belowbottomsep=\dimen154
+\aboverulesep=\dimen155
+\abovetopsep=\dimen156
+\cmidrulesep=\dimen157
+\cmidrulekern=\dimen158
+\defaultaddspace=\dimen159
+\@cmidla=\count271
+\@cmidlb=\count272
+\@aboverulesep=\dimen160
+\@belowrulesep=\dimen161
+\@thisruleclass=\count273
+\@lastruleclass=\count274
+\@thisrulewidth=\dimen162
+)
+(e:/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip54
+\multirow@cntb=\count275
+\multirow@dima=\skip55
+\bigstrutjot=\dimen163
+)
+(e:/texlive/2022/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read2
+)
+(e:/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(e:/texlive/2022/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(e:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(e:/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(e:/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks25
+)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/ctex.sty
+(e:/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(e:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count279
+\l__pdf_internal_box=\box54
+))
+Package: ctex 2021/12/12 v2.5.8 Chinese adapter in LaTeX (CTEX)
+
+(e:/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(e:/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
+
+(e:/texlive/2022/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\l__ctex_tmp_int=\count280
+\l__ctex_tmp_box=\box55
+\l__ctex_tmp_dim=\dimen172
+\g__ctex_section_depth_int=\count281
+\g__ctex_font_size_int=\count282
+
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
+)
+
+Package ctex Warning: UTF8 will be used as the default encoding.
+
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2021/12/12 v2.5.8 (pdf)LaTeX adapter (CTEX)
+
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2021/10/16 4.8.5
+
+(e:/texlive/2022/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(e:/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+)
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2021/10/16 4.8.5
+
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2021/10/16 4.8.5
+)
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2021/10/16 4.8.5
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+\CJK@indent=\box56
+)
+(e:/texlive/2022/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+))
+(e:/texlive/2022/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count283
+\CJKpunct@cntb=\count284
+\CJKpunct@cntc=\count285
+\CJKpunct@cntd=\count286
+\CJKpunct@cnte=\count287
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+
+(e:/texlive/2022/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa))
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2021/10/16 3.8.0
+)
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2021/12/12 v2.5.8 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen173
+\l__ctex_ccglue_skip=\skip56
+)
+\l__ctex_ziju_dim=\dimen174
+
+(e:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count288
+\l__zhnum_byte_min_int=\count289
+\l__zhnum_byte_max_int=\count290
+
+(e:/texlive/2022/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2021/12/12 v2.5.8 Chinese scheme for generic (CTE
+X)
+
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
+))
+(e:/texlive/2022/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2021/12/12 v2.5.8 c5size option (CTEX)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2021/12/12 v2.5.8 Windows fonts definition (CTEX
+)
+))
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen175
+\pgfutil@tempdimb=\dimen176
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen177
+\Gin@req@width=\dimen178
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen179
+\pgf@y=\dimen180
+\pgf@xa=\dimen181
+\pgf@ya=\dimen182
+\pgf@xb=\dimen183
+\pgf@yb=\dimen184
+\pgf@xc=\dimen185
+\pgf@yc=\dimen186
+\pgf@xd=\dimen187
+\pgf@yd=\dimen188
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count291
+\c@pgf@countb=\count292
+\c@pgf@countc=\count293
+\c@pgf@countd=\count294
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count295
+ (e:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count296
+\pgfsyssoftpath@bigbuffer@items=\count297
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (e:/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(e:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen189
+\pgfmath@count=\count298
+\pgfmath@box=\box58
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count299
+))
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen190
+\pgf@picmaxx=\dimen191
+\pgf@picminy=\dimen192
+\pgf@picmaxy=\dimen193
+\pgf@pathminx=\dimen194
+\pgf@pathmaxx=\dimen195
+\pgf@pathminy=\dimen196
+\pgf@pathmaxy=\dimen197
+\pgf@xx=\dimen198
+\pgf@xy=\dimen199
+\pgf@yx=\dimen256
+\pgf@yy=\dimen257
+\pgf@zx=\dimen258
+\pgf@zy=\dimen259
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen260
+\pgf@path@lasty=\dimen261
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen262
+\pgf@shorten@start@additional=\dimen263
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count300
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen264
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen265
+\pgf@pt@y=\dimen266
+\pgf@pt@temp=\dimen267
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen268
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen269
+\pgf@sys@shading@range@num=\count301
+\pgf@shadingcount=\count302
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box62
+))
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (e:/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (e:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box63
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen270
+\pgf@nodesepend=\dimen271
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (e:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(e:/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen272
+\pgffor@skip=\dimen273
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count303
+\pgfplotmarksize=\dimen274
+)
+\tikz@lastx=\dimen275
+\tikz@lasty=\dimen276
+\tikz@lastxsaved=\dimen277
+\tikz@lastysaved=\dimen278
+\tikz@lastmovetox=\dimen279
+\tikz@lastmovetoy=\dimen280
+\tikzleveldistance=\dimen281
+\tikzsiblingdistance=\dimen282
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count304
+\tikznumberofchildren=\count305
+\tikznumberofcurrentchild=\count306
+\tikz@fig@count=\count307
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count308
+\pgfmatrixcurrentcolumn=\count309
+\pgf@matrix@numberofcolumns=\count310
+)
+\tikz@expandcount=\count311
+
+(e:/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen283
+\epsfysize=\dimen284
+)
+(e:/texlive/2022/texmf-dist/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
+)
+(e:/texlive/2022/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks40
+\minrowclearance=\skip57
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pstricks-add/pstricks-add.sty
+(e:/texlive/2022/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2021/08/23 v0.71 LaTeX wrapper for `PSTricks' (RN,HV)
+
+(e:/texlive/2022/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(e:/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(e:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(e:/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks41
+\XKV@tempa@toks=\toks42
+)
+\XKV@depth=\count312
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks.tex
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count313
+\pstFP@xia=\count314
+\pstFP@xib=\count315
+\pstFP@xfa=\count316
+\pstFP@xfb=\count317
+\pstFP@rega=\count318
+\pstFP@regb=\count319
+\pstFP@regs=\count320
+\pstFP@times=\count321
+)
+\psLoopIndex=\count322
+
+`PSTricks' v3.13  <2022/01/09> (tvz,hv)
+\pst@dima=\dimen285
+\pst@dimb=\dimen286
+\pst@dimc=\dimen287
+\pst@dimd=\dimen288
+\pst@dimg=\dimen289
+\pst@dimh=\dimen290
+\pst@dimm=\dimen291
+\pst@dimn=\dimen292
+\pst@dimo=\dimen293
+\pst@dimp=\dimen294
+\pst@hbox=\box68
+\pst@ibox=\box69
+\pst@boxg=\box70
+\pst@cnta=\count323
+\pst@cntb=\count324
+\pst@cntc=\count325
+\pst@cntd=\count326
+\pst@cntg=\count327
+\pst@cnth=\count328
+\pst@cntm=\count329
+\pst@cntn=\count330
+\pst@cnto=\count331
+\pst@cntp=\count332
+\@zero=\count333
+\pst@toks=\toks43
+--- We are running latex or xelatex ---
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks.con)
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
+\psunit=\dimen295
+\psxunit=\dimen296
+\psyunit=\dimen297
+\pst@C@@rType=\count334
+\pslinewidth=\dimen298
+\psk@startLW=\dimen299
+\psk@endLW=\dimen300
+
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen301
+\pshookwidth=\dimen302
+)
+\pst@customdefs=\toks44
+
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen303
+\pst@symbolStep=\dimen304
+\pst@symbolWidth=\dimen305
+\pst@symbolLinewidth=\dimen306
+\everypsbox=\toks45
+\psframesep=\dimen307
+\pslabelsep=\dimen308
+\sh@wgridXunit=\dimen309
+\sh@wgridYunit=\dimen310
+\pst@shift=\dimen311
+\ps@imagectr=\count335
+
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pstricks.con))
+File: pstricks.tex 2022/01/09 v3.13 `PSTricks' (tvz,hv)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pst-plot/pst-plot.sty
+Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
+
+(e:/texlive/2022/texmf-dist/tex/latex/xkeyval/pst-xkey.sty
+Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/multido/multido.sty
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+(e:/texlive/2022/texmf-dist/tex/generic/multido/multido.tex
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count336
+\multidocount=\count337
+\multido@stuff=\toks46
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+Package: pst-plot 2021/09/23 package wrapper for pst-plot.tex (hv)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pst-plot/pst-plot.tex
+(e:/texlive/2022/texmf-dist/tex/generic/pst-tools/pst-tools.tex
+`PST-tools' v0.12, 2021/09/23 (hv)
+\randomi=\count338
+\ranval=\count339
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex
+(e:/texlive/2022/texmf-dist/tex/generic/pst-node/pst-node.tex
+ v1.43, 2022/01/31
+\psrow=\count340
+\pscol=\count341
+\psmatrixcnt=\count342
+\psrowsep=\skip58
+\pscolsep=\skip59
+\pst@args=\count343
+\num@pts=\count344
+\pst@argcnt=\count345
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pst-arrow/pst-arrow.tex
+`pst-arrow' v0.05, 2021/11/16 (dr,hv))
+(e:/texlive/2022/texmf-dist/tex/generic/pst-3d/pst-3d.tex
+`PST-3d' v1.11, 2010/02/14 (tvz))
+(e:/texlive/2022/texmf-dist/tex/generic/pst-math/pst-math.tex
+`pst-math' v0.64 , (CJ,hv)) `pstricks-add' v3.92, 2021/12/25 (dr,hv)
+\psparallelogramsep=\dimen312
+\pst@cntC=\count346
+\pst@stepcount=\count347
+\chart@ColorIndex=\dimen313
+\chart@ColorStep=\dimen314
+\pst@chartHeight=\dimen315
+\pst@chartStackDepth=\dimen316
+\pst@chartStackWidth=\dimen317
+\chart@Toggle=\count348
+\psVectorCtr=\count349
+)
+ v1.93, 2021/09/23 (tvz,hv)
+\pstRadUnit=\dimen318
+\pstRadUnitInv=\dimen319
+\pst@linecnt=\count350
+\RCD@file=\read4
+\psxlabelsep=\dimen320
+\psylabelsep=\dimen321
+\psk@subticksize=\dimen322
+\pst@xticksizeA=\dimen323
+\pst@xticksizeB=\dimen324
+\pst@xticksizeC=\dimen325
+\pst@yticksizeA=\dimen326
+\pst@yticksizeB=\dimen327
+\pst@yticksizeC=\dimen328
+\@digitcounter=\count351
+\psk@llx=\dimen329
+\psk@lly=\dimen330
+\psk@urx=\dimen331
+\psk@ury=\dimen332
+\pst@xunit=\dimen333
+\pst@yunit=\dimen334
+)
+File: pst-plot.tex 2021/09/23 1.93 `pst-plot' (tvz,hv)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pst-node/pst-node.sty
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+(e:/texlive/2022/texmf-dist/tex/generic/pst-node/pst-node.tex)
+File: pst-node.tex 2021/09/23 1.93 `pst-node' (tvz,hv)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pst-3d/pst-3d.sty
+Package: pst-3d 2009/07/28 package wrapper for pst-3d.tex (hv)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pst-3d/pst-3d.tex)
+File: pst-3d.tex 2021/09/23 v1.93 `PST-3d' (hv)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/pst-math/pst-math.sty
+Package: pst-math 2018/12/16 v 0.65 package wrapper for PSTricks pst-math.tex
+
+(e:/texlive/2022/texmf-dist/tex/latex/pst-calculate/pst-calculate.sty
+Package: pst-calculate 2019/01/24 v. 0.02(Herbert Voss) Support for caculations
+ with floating point numbers.
+
+(e:/texlive/2022/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2022-02-15 v3.0.49 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen335
+\l__siunitx_angle_marker_box=\box71
+\l__siunitx_angle_unit_box=\box72
+\l__siunitx_compound_count_int=\count352
+
+(e:/texlive/2022/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+
+(e:/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count353
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(e:/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count354
+\l__siunitx_number_min_decimal_int=\count355
+\l__siunitx_number_min_integer_int=\count356
+\l__siunitx_number_round_precision_int=\count357
+\l__siunitx_number_group_minimum_int=\count358
+\l__siunitx_table_tmp_box=\box73
+\l__siunitx_table_tmp_dim=\dimen336
+\l__siunitx_table_column_width_dim=\dimen337
+\l__siunitx_table_integer_box=\box74
+\l__siunitx_table_decimal_box=\box75
+\l__siunitx_table_before_box=\box76
+\l__siunitx_table_after_box=\box77
+\l__siunitx_table_before_dim=\dimen338
+\l__siunitx_table_carry_dim=\dimen339
+\l__siunitx_unit_tmp_int=\count359
+\l__siunitx_unit_position_int=\count360
+\l__siunitx_unit_total_int=\count361
+))
+(e:/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(e:/texlive/2022/texmf-dist/tex/generic/xstring/xstring.sty
+(e:/texlive/2022/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count362
+\decimalpart=\count363
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+(e:/texlive/2022/texmf-dist/tex/generic/pst-math/pst-math.tex)
+File: pst-math.tex 2021/09/23 v1.93 `PST-math' (hv)
+\c@Rand@No=\count364
+\c@Random@Left=\count365
+\c@Random@Right=\count366
+\c@Random@No@max=\count367
+)
+Package: pstricks-add 2021/09/10 v. 0.17 package wrapper for pstricks-add.tex (
+hv)
+
+(e:/texlive/2022/texmf-dist/tex/generic/pstricks-add/pstricks-add.tex)
+File: pstricks-add.tex 2021/09/23 v1.93 `PSTricks-add' (hv)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(e:/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen340
+\captionmargin=\dimen341
+\caption@leftmargin=\dimen342
+\caption@rightmargin=\dimen343
+\caption@width=\dimen344
+\caption@indent=\dimen345
+\caption@parindent=\dimen346
+\caption@hangindent=\dimen347
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count368
+\c@continuedfloat=\count369
+)
+(e:/texlive/2022/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box78
+)
+\c@prop=\count370
+\c@cor=\count371
+\c@thm=\count372
+\c@lemma=\count373
+\c@example=\count374
+\c@assumption=\count375
+\c@definition=\count376
+\c@claim=\count377
+\c@remark=\count378
+\c@result=\count379
+
+(e:/texlive/2022/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup7
+\symitalic=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(e:/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count380
+\LTcapwidth=\dimen348
+\LT@head=\box79
+\LT@firsthead=\box80
+\LT@foot=\box81
+\LT@lastfoot=\box82
+\LT@gbox=\box83
+\LT@cols=\count381
+\LT@rows=\count382
+\c@LT@tables=\count383
+\c@LT@chunks=\count384
+\LT@p@ftn=\toks47
+)
+(e:/texlive/2022/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+(e:/texlive/2022/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks48
+\footnotemargin=\dimen349
+\@outputbox@depth=\dimen350
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+(e:/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(e:/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count385
+\rotFPtop=\skip64
+\rotFPbot=\skip65
+\rot@float@box=\box84
+\rot@mess@toks=\toks49
+)
+(e:/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen351
+\TX@old@table=\dimen352
+\TX@old@col=\dimen353
+\TX@target=\dimen354
+\TX@delta=\dimen355
+\TX@cols=\count386
+\TX@ftn=\toks50
+)
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2021/10/16 4.8.5
+)
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2021/10/16 4.8.5
+)
+(e:/texlive/2022/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2021/10/16 4.8.5
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 54.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
+4.
+
+(e:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+
+LaTeX Warning: Unused global option(s):
+    [10.0pt].
+
+(./JFM.aux
+
+LaTeX Warning: Label `EO' multiply defined.
+
+
+LaTeX Warning: Label `EJ' multiply defined.
+
+
+LaTeX Warning: Label `EJ' multiply defined.
+
+
+LaTeX Warning: Label `S' multiply defined.
+
+
+LaTeX Warning: Label `S' multiply defined.
+
+
+LaTeX Warning: Label `S' multiply defined.
+
+)
+\openout1 = `JFM.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+ (e:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count387
+\scratchdimen=\dimen356
+\scratchbox=\box85
+\nofMPsegments=\count388
+\nofMParguments=\count389
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count390
+\MPscratchDim=\dimen357
+\MPnumerator=\count391
+\makeMPintoPDFobject=\count392
+\everyMPtoPDFconversion=\toks52
+) (e:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(e:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=451.6875pt
+* \textheight=650.43pt
+* \oddsidemargin=7.22743pt
+* \evensidemargin=19.8752pt
+* \topmargin=-28.90755pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(e:/texlive/2022/texmf-dist/tex/latex/translations/translations-basic-dictionar
+y-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 54.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: longtable package is loaded.
+ (e:/texlive/2022/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 65
+.
+
+(e:/texlive/2022/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
+)
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 65.
+
+(e:/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 65.
+
+(e:/texlive/2022/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 65.
+
+(e:/texlive/2022/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 65.
+
+(e:/texlive/2022/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 65
+.
+
+(e:/texlive/2022/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <18.06749> not available
+(Font)              size <17.28> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <15.05624> not available
+(Font)              size <14.4> substituted on input line 65.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <18.06749> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <15.05624> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
+5.
+(e:/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <7.52812> not available
+(Font)              size <8> substituted on input line 65.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.52812> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
+quanjiao) on input line 68.
+
+Overfull \hbox (50.871pt too wide) in paragraph at lines 80--81
+\C70/rm/m/n/10.53937/66 ' \C70/rm/m/n/10.53937/53 å \C70/rm/m/n/10.53937/60 v \
+C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/51 ≥ \C70/rm/m/n/10.53937/7b V \C
+70/rm/m/n/10.53937/88 L \C70/rm/m/n/10.53937/4e : \C70/rm/m/n/10.53937/8f € \C7
+0/rm/m/n/10.53937/88 L \C70/rm/m/n/10.53937/4e Ü \C70/rm/m/n/10.53937/51 l \C70
+/rm/m/n/10.53937/74 ^^F \C70/rm/m/n/10.53937/53 ^^V \C70/rm/m/n/10.53937/52 ^^F
+ \C70/rm/m/n/10.53937/67 ê|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/52
+ 0 \C70/rm/m/n/10.53937/76 Ó \C70/rm/m/n/10.53937/52 M \C70/rm/m/n/10.53937/4e 
+: \C70/rm/m/n/10.53937/6b b|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/6
+6 ß ' \C70/rm/m/n/10.53937/60 ' \C70/rm/m/n/10.53937/5d Ú \C70/rm/m/n/10.53937/
+5e ^^? \C70/rm/m/n/10.53937/6c € \C70/rm/m/n/10.53937/5e î \C70/rm/m/n/10.53937
+/75 ( \C70/rm/m/n/10.53937/4e é \C70/rm/m/n/10.53937/59 ^^Z \C70/rm/m/n/10.5393
+7/79 Õ \C70/rm/m/n/10.53937/8d D \C70/rm/m/n/10.53937/4e ß \C70/rm/m/n/10.53937
+/5b ö \C70/rm/m/n/10.53937/4e ˜ \C70/rm/m/n/10.53937/6a ! \C70/rm/m/n/10.53937/
+57 ã\OT1/ptm/m/n/10.53937 (\C70/rm/m/n/10.53937/59 Ç\OT1/ptm/m/n/10.53937 Chen\
+C70/rm/m/n/10.53937/54 å\OT1/ptm/m/n/10.53937 Epstein|\C70/rm/m/n/10.53937/ff ^
+^L|
+ []
+
+
+Overfull \hbox (12.68547pt too wide) in paragraph at lines 80--81
+\C70/rm/m/n/10.53937/59 Ç \C70/rm/m/n/10.53937/67 	 \C70/rm/m/n/10.53937/96 P \
+C70/rm/m/n/10.53937/53 ¬ \C70/rm/m/n/10.53937/4e ^^N\OT1/ptm/m/n/10.53937 (\C70
+/rm/m/n/10.53937/59 Ç\OT1/ptm/m/n/10.53937 Cao|\C70/rm/m/n/10.53937/30 ^^A| \OT
+1/ptm/m/n/10.53937 Wang\C70/rm/m/n/10.53937/54 å\OT1/ptm/m/n/10.53937 Zhang|\C7
+0/rm/m/n/10.53937/ff ^^L| \OT1/ptm/m/n/10.53937 2005|\C70/rm/m/n/10.53937/ff ^^
+[| \OT1/ptm/m/n/10.53937 Easley\C70/rm/m/n/10.53937/54 å\OT1/ptm/m/n/10.53937 O
+'Hara|\C70/rm/m/n/10.53937/ff ^^L| \OT1/ptm/m/n/10.53937 2009)|\C70/rm/m/n/10.5
+3937/ff ^^L| \C70/rm/m/n/10.53937/65 6 \C70/rm/m/n/10.53937/76   Ñ \C70/rm/m/n/
+10.53937/8d ^^_ \C70/rm/m/n/10.53937/50 O \C70/rm/m/n/10.53937/5e ¶\OT1/ptm/m/n
+/10.53937 (Epstein\C70/rm/m/n/10.53937/54 å\OT1/ptm/m/n/10.53937 Schneider|\C70
+/rm/m/n/10.53937/ff ^^L|
+ []
+
+(e:/texlive/2022/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
+File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfT
+eX and DVIPDFMx (CTEX)
+{e:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicod
+e.sfd}) [1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+Non-PDF special ignored!
+<special> header=pst-node.pro
+Non-PDF special ignored!
+<special> header=pst-3d.pro
+Non-PDF special ignored!
+<special> header=pst-math.pro
+Non-PDF special ignored!
+<special> header=pstricks-add.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+Non-PDF special ignored!
+<special> ps:0.8 setlinewidth 0 setgray
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+]
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 87.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
+
+Overfull \hbox (76.49213pt too wide) in paragraph at lines 87--88
+\C70/rm/m/n/10.53937/57 ( \C70/rm/m/n/10.53937/8b Â \C70/rm/m/n/10.53937/7e œ \
+C70/rm/m/n/10.53937/6d N \C70/rm/m/n/10.53937/4f S \C70/rm/m/n/10.53937/4e - \C
+70/rm/m/n/10.53937/67 	 \C70/rm/m/n/10.53937/4e ^^@ * \C70/rm/m/n/10.53937/65 ‡
+ \C70/rm/m/n/10.53937/98 Œ \C70/rm/m/n/10.53937/96 i \C70/rm/m/n/10.53937/8d D 
+\C70/rm/m/n/10.53937/4e ß \C70/rm/m/n/10.53937/54 å \C70/rm/m/n/10.53937/4e $ *
+ \C70/rm/m/n/10.53937/98 Œ \C70/rm/m/n/10.53937/96 i \C70/rm/m/n/10.53937/8d D 
+\C70/rm/m/n/10.53937/4e ß|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/51 
+v \C70/rm/m/n/10.53937/4e - \C70/rm/m/n/10.53937/98 Œ \C70/rm/m/n/10.53937/96 i
+ \C70/rm/m/n/10.53937/8d D \C70/rm/m/n/10.53937/4e ß \C70/rm/m/n/10.53937/76 Ñ 
+\C70/rm/m/n/10.53937/65 6 \C70/rm/m/n/10.53937/76   \C70/rm/m/n/10.53937/73 á \
+C70/rm/m/n/10.53937/67 ^^M \C70/rm/m/n/10.53937/4e Œ \C70/rm/m/n/10.53937/6b c 
+\C70/rm/m/n/10.53937/60 ^^A \C70/rm/m/n/10.53937/52 ^^F \C70/rm/m/n/10.53937/5e
+ ^^C|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/4e ^^N\OT1/ptm/m/n/10.53
+937 Easley\C70/rm/m/n/10.53937/54 å\OT1/ptm/m/n/10.53937 O'Hara(2009)\C70/rm/m/
+n/10.53937/4e ^^M
+ []
+
+[2]
+Overfull \hbox (12.47061pt too wide) in paragraph at lines 117--118
+\C70/rm/m/n/10.53937/4e § \C70/rm/m/n/10.53937/66 ^^S \C70/rm/m/n/10.53937/57 ˙
+ \C70/rm/m/n/10.53937/91 —\OT1/ptm/m/n/10.53937 (ETF)|\C70/rm/m/n/10.53937/ff ^
+^L| \C70/rm/m/n/10.53937/75 ^^Z \C70/rm/m/n/10.53937/81 Û \C70/rm/m/n/10.53937/
+66 / \C70/rm/m/n/10.53937/5b X \C70/rm/m/n/10.53937/6b >|\C70/rm/m/n/10.53937/3
+0 ^^B| \C70/rm/m/n/10.53937/8d D \C70/rm/m/n/10.53937/4e ß$\OML/ztmcm/m/it/10.5
+3937 i$\C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/67 ^^_ ^^[ \C70/rm/m/n/10
+.53937/65 6 \C70/rm/m/n/10.53937/76   \C70/rm/m/n/10.53937/54 å \C70/rm/m/n/10.
+53937/65 π \C70/rm/m/n/10.53937/5d Ó \C70/rm/m/n/10.53937/52 ^^F + \C70/rm/m/n/
+10.53937/4e :$\OML/ztmcm/m/it/10.53937 ^^V[]$ \C70/rm/m/n/10.53937/54 å $\OML/z
+tmcm/m/it/10.53937 ^^[[]$|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/4e 
+^^M \C70/rm/m/n/10.53937/54 ^^L \C70/rm/m/n/10.53937/4e é\OT1/ptm/m/n/10.53937 
+Easley\C70/rm/m/n/10.53937/54 å\OT1/ptm/m/n/10.53937 O'Hara(2009)\C70/rm/m/n/10
+.53937/76 Ñ
+ []
+
+[3] [4] [5]
+Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
+e (quanjiao) on input line 213.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+[7] [8] [9] [10] [11] [12] [13]
+<Figure1.png.png, id=266, 1129.21875pt x 507.39563pt>
+File: Figure1.png.png Graphic file (type png)
+<use Figure1.png.png>
+Package pdftex.def Info: Figure1.png.png  used on input line 549.
+(pdftex.def)             Requested size: 451.6875pt x 202.9624pt.
+ [14 <./Figure1.png.png>] [15]
+Overfull \hbox (7.64774pt too wide) in paragraph at lines 642--643
+\OML/ztmcm/m/it/10.53937 ^^[[] [][]$|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/1
+0.53937/52 ^^Y $\OML/ztmcm/m/it/10.53937 ad \OMS/ztmcm/m/n/10.53937 ^^@ \OML/zt
+mcm/m/it/10.53937 bc \OT1/ztmcm/m/n/10.53937 = []\OML/ztmcm/m/it/10.53937 ^^[[]
+^^[[] [][] Z[] \OT1/ztmcm/m/n/10.53937 + \OML/ztmcm/m/it/10.53937 ^^[[]^^[[]Z[]
+ [][] \OT1/ztmcm/m/n/10.53937 = ([]\OML/ztmcm/m/it/10.53937 ^^[[]Z[] \OT1/ztmcm
+/m/n/10.53937 + \OML/ztmcm/m/it/10.53937 ^^[[]Z[]\OT1/ztmcm/m/n/10.53937 )\OML/
+ztmcm/m/it/10.53937 ^^[[]^^[[]Z[]Z[] > \OT1/ztmcm/m/n/10.53937 0$|\C70/rm/m/n/1
+0.53937/30 ^^B| \C70/rm/m/n/10.53937/6c Ë \C70/rm/m/n/10.53937/61 ^^O \C70/rm/m
+/n/10.53937/52 0 $[] \OML/ztmcm/m/it/10.53937 >
+ []
+
+[16]
+Overfull \hbox (1.05844pt too wide) in paragraph at lines 697--698
+[]\C70/rm/m/n/10.53937/5b ˘ \C70/rm/m/n/10.53937/4e é \C70/rm/m/n/10.53937/51 ˝
+ \C70/rm/m/n/10.53937/65 p $\OML/ztmcm/m/it/10.53937 f\OT1/ztmcm/m/n/10.53937 (
+\OML/ztmcm/m/it/10.53937 x\OT1/ztmcm/m/n/10.53937 ) = []$|\C70/rm/m/n/10.53937/
+ff ^^L| \C70/rm/m/n/10.53937/53 ÷ ¬ \C70/rm/m/n/10.53937/65 p $\OML/ztmcm/m/it/
+10.53937 a \OT1/ztmcm/m/n/10.53937 = \OML/ztmcm/m/it/10.53937 ^^[[]^^[[]Z[]$|\C
+70/rm/m/n/10.53937/ff ^^L| $\OML/ztmcm/m/it/10.53937 b \OT1/ztmcm/m/n/10.53937 
+= \OML/ztmcm/m/it/10.53937 ^^[[]Z[]$|\C70/rm/m/n/10.53937/ff ^^L| $\OML/ztmcm/m
+/it/10.53937 c \OT1/ztmcm/m/n/10.53937 = 2\OML/ztmcm/m/it/10.53937 ^^[[]^^[[]Z[
+]Z[]$ |\C70/rm/m/n/10.53937/ff ^^L| $\OML/ztmcm/m/it/10.53937 d \OT1/ztmcm/m/n/
+10.53937 = \OML/ztmcm/m/it/10.53937 ^^[[] [][] \OT1/ztmcm/m/n/10.53937 + \OML/z
+tmcm/m/it/10.53937 ^^[[] [][]$|\C70/rm/m/n/10.53937/30 ^^B|
+ []
+
+[17] [18]
+Overfull \hbox (1.22878pt too wide) in paragraph at lines 812--813
+[]\C70/rm/m/n/10.53937/68 9 \C70/rm/m/n/10.53937/63 n \C70/rm/m/n/10.53937/62 ^
+^Q \C70/rm/m/n/10.53937/4e Ï \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/52 
+^^F \C70/rm/m/n/10.53937/67 ê|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937
+/51 œ \C70/rm/m/n/10.53937/5c ^^O \C70/rm/m/n/10.53937/67 ^^@ \C70/rm/m/n/10.53
+937/59 ' \C70/rm/m/n/10.53937/76 ¯ \C70/rm/m/n/10.53937/51 s \C70/rm/m/n/10.539
+37/7c ˚ \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/5c ^^F \C70/rm/m/n/10.53
+937/63 – \C70/rm/m/n/10.53937/9a ÿ \C70/rm/m/n/10.53937/5e ^^B \C70/rm/m/n/10.5
+3937/57 : \C70/rm/m/n/10.53937/53 ¬ \C70/rm/m/n/10.53937/4e ^^N \C70/rm/m/n/10.
+53937/5e ¶|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/59 Ç \OT1/ptm/m/n/
+10.53937 Ca-ballero \C70/rm/m/n/10.53937/54 å \OT1/ptm/m/n/10.53937 Kr-ish-na-m
+urthy(2007)\C70/rm/m/n/10.53937/4e Â
+ []
+
+[19]
+Overfull \hbox (57.05174pt too wide) in paragraph at lines 821--822
+[]\C70/rm/m/it/10.53937/57 ( \C70/rm/m/it/10.53937/53 ¬ \C70/rm/m/it/10.53937/4
+e ^^N \C70/rm/m/it/10.53937/57 G \C70/rm/m/it/10.53937/88 a \C70/rm/m/it/10.539
+37/4e |\C70/rm/m/it/10.53937/ff ^^L| \C70/rm/m/it/10.53937/5f S $\OML/ztmcm/m/
+it/10.53937 E[] \U/msa/m/n/10.53937 > []$\C70/rm/m/it/10.53937/65 ˆ\OT1/ptm/m/i
+t/10.53937 , $\OML/ztmcm/m/it/10.53937 p[]$ \C70/rm/m/it/10.53937/66 / $[]$ \C7
+0/rm/m/it/10.53937/76 Ñ \C70/rm/m/it/10.53937/51 œ ˝ \C70/rm/m/it/10.53937/65 p
+|\C70/rm/m/it/10.53937/30 ^^B| \C70/rm/m/it/10.53937/5f S $\OML/ztmcm/m/it/10.5
+3937 E[] < []$\C70/rm/m/it/10.53937/65 ˆ\OT1/ptm/m/it/10.53937 ,
+ []
+
+[20] [21] [22] [23] [24]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1039.
+ [25] [26]
+<FigureA1.1.png, id=320, 536.75531pt x 572.1375pt>
+File: FigureA1.1.png Graphic file (type png)
+<use FigureA1.1.png>
+Package pdftex.def Info: FigureA1.1.png  used on input line 1054.
+(pdftex.def)             Requested size: 496.859pt x 529.61176pt.
+
+Overfull \hbox (45.1715pt too wide) in paragraph at lines 1054--1055
+ [][] 
+ []
+
+<FigureA1.2.png, id=321, 532.99126pt x 552.56438pt>
+File: FigureA1.2.png Graphic file (type png)
+<use FigureA1.2.png>
+Package pdftex.def Info: FigureA1.2.png  used on input line 1071.
+(pdftex.def)             Requested size: 496.859pt x 515.11897pt.
+
+Overfull \hbox (45.1715pt too wide) in paragraph at lines 1071--1072
+ [][] 
+ []
+
+<FigureA1.3.png, id=322, 537.50812pt x 575.90157pt>
+File: FigureA1.3.png Graphic file (type png)
+<use FigureA1.3.png>
+Package pdftex.def Info: FigureA1.3.png  used on input line 1086.
+(pdftex.def)             Requested size: 496.859pt x 532.3491pt.
+
+Overfull \hbox (45.1715pt too wide) in paragraph at lines 1086--1087
+ [][] 
+ []
+
+<FigureA1.4.png, id=323, 542.025pt x 552.56438pt>
+File: FigureA1.4.png Graphic file (type png)
+<use FigureA1.4.png>
+Package pdftex.def Info: FigureA1.4.png  used on input line 1099.
+(pdftex.def)             Requested size: 496.859pt x 506.53577pt.
+
+Overfull \hbox (45.1715pt too wide) in paragraph at lines 1099--1100
+ [][] 
+ []
+
+<FigureA1.5.png, id=324, 529.22719pt x 561.59813pt>
+File: FigureA1.5.png Graphic file (type png)
+<use FigureA1.5.png>
+Package pdftex.def Info: FigureA1.5.png  used on input line 1112.
+(pdftex.def)             Requested size: 496.859pt x 527.25105pt.
+
+Overfull \hbox (45.1715pt too wide) in paragraph at lines 1112--1113
+ [][] 
+ []
+
+[27] [28 <./FigureA1.1.png>] [29 <./FigureA1.2.png>] [30 <./FigureA1.3.png>]
+[31 <./FigureA1.4.png>] [32 <./FigureA1.5.png>] [33] [34] [35] [36]
+<FigureA2.1.png, id=362, 369.63094pt x 104.64093pt>
+File: FigureA2.1.png Graphic file (type png)
+<use FigureA2.1.png>
+Package pdftex.def Info: FigureA2.1.png  used on input line 1383.
+(pdftex.def)             Requested size: 451.6875pt x 127.87248pt.
+<FigureA2.2.png, id=363, 371.88937pt x 108.405pt>
+File: FigureA2.2.png Graphic file (type png)
+<use FigureA2.2.png>
+Package pdftex.def Info: FigureA2.2.png  used on input line 1392.
+(pdftex.def)             Requested size: 451.6875pt x 131.66998pt.
+<FigureA2.3.png, id=364, 378.66469pt x 122.70844pt>
+File: FigureA2.3.png Graphic file (type png)
+<use FigureA2.3.png>
+Package pdftex.def Info: FigureA2.3.png  used on input line 1402.
+(pdftex.def)             Requested size: 451.6875pt x 146.37311pt.
+<FigureA2.4.png, id=365, 381.67593pt x 109.91063pt>
+File: FigureA2.4.png Graphic file (type png)
+<use FigureA2.4.png>
+Package pdftex.def Info: FigureA2.4.png  used on input line 1413.
+(pdftex.def)             Requested size: 451.6875pt x 130.07744pt.
+<FigureA2.5.png, id=366, 368.1253pt x 120.45pt>
+File: FigureA2.5.png Graphic file (type png)
+<use FigureA2.5.png>
+Package pdftex.def Info: FigureA2.5.png  used on input line 1425.
+(pdftex.def)             Requested size: 451.6875pt x 147.80339pt.
+<FigureA2.6.png, id=367, 395.97937pt x 106.89937pt>
+File: FigureA2.6.png Graphic file (type png)
+<use FigureA2.6.png>
+Package pdftex.def Info: FigureA2.6.png  used on input line 1435.
+(pdftex.def)             Requested size: 451.6875pt x 121.93993pt.
+<FigureA2.7.png, id=368, 377.15906pt x 104.64093pt>
+File: FigureA2.7.png Graphic file (type png)
+<use FigureA2.7.png>
+Package pdftex.def Info: FigureA2.7.png  used on input line 1445.
+(pdftex.def)             Requested size: 451.6875pt x 125.31778pt.
+<FigureA2.8.png, id=369, 377.15906pt x 120.45pt>
+File: FigureA2.8.png Graphic file (type png)
+<use FigureA2.8.png>
+Package pdftex.def Info: FigureA2.8.png  used on input line 1455.
+(pdftex.def)             Requested size: 451.6875pt x 144.2507pt.
+<FigureA2.9.png, id=370, 378.66469pt x 120.45pt>
+File: FigureA2.9.png Graphic file (type png)
+<use FigureA2.9.png>
+Package pdftex.def Info: FigureA2.9.png  used on input line 1466.
+(pdftex.def)             Requested size: 451.6875pt x 143.67911pt.
+<FigureA2.10.png, id=371, 380.92313pt x 114.4275pt>
+File: FigureA2.10.png Graphic file (type png)
+<use FigureA2.10.png>
+Package pdftex.def Info: FigureA2.10.png  used on input line 1478.
+(pdftex.def)             Requested size: 451.6875pt x 135.69025pt.
+<FigureA2.11.png, id=372, 379.4175pt x 94.10156pt>
+File: FigureA2.11.png Graphic file (type png)
+<use FigureA2.11.png>
+Package pdftex.def Info: FigureA2.11.png  used on input line 1489.
+(pdftex.def)             Requested size: 451.6875pt x 112.02817pt.
+<FigureA2.12.png, id=373, 380.92313pt x 95.6072pt>
+File: FigureA2.12.png Graphic file (type png)
+<use FigureA2.12.png>
+Package pdftex.def Info: FigureA2.12.png  used on input line 1498.
+(pdftex.def)             Requested size: 451.6875pt x 113.37277pt.
+<FigureA2.13.png, id=374, 386.19281pt x 191.9672pt>
+File: FigureA2.13.png Graphic file (type png)
+<use FigureA2.13.png>
+Package pdftex.def Info: FigureA2.13.png  used on input line 1506.
+(pdftex.def)             Requested size: 451.6875pt x 224.52455pt.
+<FigureA2.14.png, id=375, 384.6872pt x 104.64093pt>
+File: FigureA2.14.png Graphic file (type png)
+<use FigureA2.14.png>
+Package pdftex.def Info: FigureA2.14.png  used on input line 1514.
+(pdftex.def)             Requested size: 451.6875pt x 122.87485pt.
+<FigureA2.15.png, id=376, 389.20406pt x 108.405pt>
+File: FigureA2.15.png Graphic file (type png)
+<use FigureA2.15.png>
+Package pdftex.def Info: FigureA2.15.png  used on input line 1522.
+(pdftex.def)             Requested size: 451.6875pt x 125.81273pt.
+<FigureA2.16.png, id=377, 385.44pt x 85.82062pt>
+File: FigureA2.16.png Graphic file (type png)
+<use FigureA2.16.png>
+Package pdftex.def Info: FigureA2.16.png  used on input line 1531.
+(pdftex.def)             Requested size: 451.6875pt x 100.57076pt.
+<FigureA2.17.png, id=378, 379.4175pt x 88.07906pt>
+File: FigureA2.17.png Graphic file (type png)
+<use FigureA2.17.png>
+Package pdftex.def Info: FigureA2.17.png  used on input line 1539.
+(pdftex.def)             Requested size: 451.6875pt x 104.85837pt.
+<FigureA2.18.png, id=379, 381.67593pt x 192.72pt>
+File: FigureA2.18.png Graphic file (type png)
+<use FigureA2.18.png>
+Package pdftex.def Info: FigureA2.18.png  used on input line 1547.
+(pdftex.def)             Requested size: 451.6875pt x 228.08102pt.
+<FigureA2.19.png, id=380, 383.18156pt x 115.93312pt>
+File: FigureA2.19.png Graphic file (type png)
+<use FigureA2.19.png>
+Package pdftex.def Info: FigureA2.19.png  used on input line 1558.
+(pdftex.def)             Requested size: 451.6875pt x 136.6672pt.
+<FigureA2.20.png, id=381, 380.92313pt x 114.4275pt>
+File: FigureA2.20.png Graphic file (type png)
+<use FigureA2.20.png>
+Package pdftex.def Info: FigureA2.20.png  used on input line 1566.
+(pdftex.def)             Requested size: 451.6875pt x 135.69025pt.
+ [37 <./FigureA2.1.png> <./FigureA2.2.png> <./FigureA2.3.png>] [38 <./FigureA2.
+4.png> <./FigureA2.5.png> <./FigureA2.6.png> <./FigureA2.7.png>] [39 <./FigureA
+2.8.png> <./FigureA2.9.png> <./FigureA2.10.png> <./FigureA2.11.png>] [40 <./Fig
+ureA2.12.png> <./FigureA2.13.png> <./FigureA2.14.png>] [41 <./FigureA2.15.png> 
+<./FigureA2.16.png> <./FigureA2.17.png> <./FigureA2.18.png>] [42 <./FigureA2.19
+.png> <./FigureA2.20.png>] [43] [44] [45] [46] [47] [48]
+Overfull \hbox (36.84698pt too wide) in paragraph at lines 1790--1794
+[]$[] \C70/rm/m/n/10.53937/54 å $\OT1/ztmcm/m/n/10.53937 0 \OML/ztmcm/m/it/10.5
+3937 < Z[] < Z[]$ \C70/rm/m/n/10.53937/5b ˘ \C70/rm/m/n/10.53937/4e é $[]$\OT1/
+ptm/m/n/10.53937 ; []$\OML/ztmcm/m/it/10.53937 Z[] > Z[]$ \C70/rm/m/n/10.53937/
+5b ˘ \C70/rm/m/n/10.53937/4e é $[]$[]
+ []
+
+[49] [50] [51] [52] [53]
+Overfull \hbox (60.09991pt too wide) in paragraph at lines 1932--1933
+[]\C70/rm/m/n/10.53937/57 : \C70/rm/m/n/10.53937/66 o $\OML/ztmcm/m/it/10.53937
+ Z[] \OT1/ztmcm/m/n/10.53937 = 0$ \C70/rm/m/n/10.53937/52 ^^F \C70/rm/m/n/10.53
+937/4e : $ \C70/rm/m/n/10.53937/79 Õ \C70/rm/m/n/10.53937/60 ≈ \C70/rm/m/n/10.5
+3937/51 µ|\C70/rm/m/n/10.53937/ff ^^Z|  $[]$ \C70/rm/m/n/10.53937/54 å $[]$|\C7
+0/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/5b ˘ \C70/rm/m/n/10.53937/5e î \
+C70/rm/m/n/10.53937/5f ^^O\OT1/ptm/m/n/10.53937 (10)\C70/rm/m/n/10.53937/4e - \
+C70/rm/m/n/10.53937/76 Ñ$[]$ \C70/rm/m/n/10.53937/54 å$[]$\OT1/ptm/m/n/10.53937
+ ;
+ []
+
+
+Overfull \hbox (56.89153pt too wide) in paragraph at lines 1963--1971
+\C70/rm/m/n/10.53937/56 ‡ \C70/rm/m/n/10.53937/4e : $[] \OML/ztmcm/m/it/10.5393
+7 < [] < []$\OT1/ptm/m/n/10.53937 , \C70/rm/m/n/10.53937/62 @ \C70/rm/m/n/10.53
+937/4e Â $[]$ \C70/rm/m/n/10.53937/7b I \C70/rm/m/n/10.53937/4e ˜ é $[] \U/msa/
+m/n/10.53937 6
+ []
+
+[54]
+Overfull \hbox (65.0805pt too wide) in paragraph at lines 1981--1999
+\C70/rm/m/n/10.53937/56 ‡ \C70/rm/m/n/10.53937/4e : $[] \OML/ztmcm/m/it/10.5393
+7 < \OMS/ztmcm/m/n/10.53937 ^^@[] \OML/ztmcm/m/it/10.53937 < []$\OT1/ptm/m/n/10
+.53937 , \C70/rm/m/n/10.53937/62 @ \C70/rm/m/n/10.53937/4e Â $[]$ \C70/rm/m/n/1
+0.53937/7b I \C70/rm/m/n/10.53937/4e ˜ é $[] \U/msa/m/n/10.53937 6
+ []
+
+[55]
+Overfull \hbox (43.27466pt too wide) in paragraph at lines 2073--2075
+\C70/rm/m/n/10.53937/56 ‡ \C70/rm/m/n/10.53937/6b d $[] \OML/ztmcm/m/it/10.5393
+7 < [] < []$\OT1/ptm/m/n/10.53937 ,\C70/rm/m/n/10.53937/52 ^^Y $[]$ \C70/rm/m/n
+/10.53937/7b I \C70/rm/m/n/10.53937/4e ˜ é $[] \U/msa/m/n/10.53937 6
+ []
+
+[56]
+Overfull \hbox (61.20187pt too wide) in paragraph at lines 2091--2099
+\C70/rm/m/n/10.53937/56 ‡ \C70/rm/m/n/10.53937/6b d $[] \OML/ztmcm/m/it/10.5393
+7 < \OMS/ztmcm/m/n/10.53937 ^^@[] \OML/ztmcm/m/it/10.53937 < []$\OT1/ptm/m/n/10
+.53937 , then $[]$ \C70/rm/m/n/10.53937/7b I \C70/rm/m/n/10.53937/4e ˜ é $[] \U
+/msa/m/n/10.53937 6
+ []
+
+[57] [58] [59] [60] [61]
+Overfull \hbox (21.31055pt too wide) in paragraph at lines 2284--2286
+ \C70/rm/m/n/10.53937/53 » \C70/rm/m/n/10.53937/75 1 $[] \OT1/ztmcm/m/n/7.52812
+ = [] \OML/ztmcm/m/it/7.52812 > \OT1/ztmcm/m/n/7.52812 0$|\C70/rm/m/n/10.53937/
+ff ^^L| \C70/rm/m/n/10.53937/53 Ô \C70/rm/m/n/10.53937/5f ó$[] [] \OT1/ztmcm/m/
+n/7.52812 = [][] \OML/ztmcm/m/it/7.52812 > \OT1/ztmcm/m/n/7.52812 0$ \OT1/ptm/m
+/n/10.53937 ,\C70/rm/m/n/10.53937/4e _ \C70/rm/m/n/10.53937/5c 1 \C70/rm/m/n/10
+.53937/66 / \C70/rm/m/n/10.53937/8b Ù|\C70/rm/m/n/10.53937/ff ^^L|  $[]$
+ []
+
+[62]
+Overfull \hbox (78.29797pt too wide) in paragraph at lines 2314--2315
+[]\C70/rm/m/n/10.53937/60 ≈ \C70/rm/m/n/10.53937/5f b \OT1/ptm/m/n/10.53937 2.2
+.2: $\OMS/ztmcm/m/n/7.52812 ^^@[] \OML/ztmcm/m/it/7.52812 < [] < \OMS/ztmcm/m/n
+/7.52812 ^^@[]$\OT1/ptm/m/n/10.53937 , \C70/rm/m/n/10.53937/52 ^^Y \C70/rm/m/n/
+10.53937/5b X \C70/rm/m/n/10.53937/57 ( \C70/rm/m/n/10.53937/55 / \C70/rm/m/n/1
+0.53937/4e ^^@ $\OML/ztmcm/m/it/7.52812 ^^R[] \OMS/ztmcm/m/n/7.52812 2 \OT1/ztm
+cm/m/n/7.52812 [0\OML/ztmcm/m/it/7.52812 ; \OT1/ztmcm/m/n/7.52812 1]$ \C70/rm/m
+/n/10.53937/4f ^^? \C70/rm/m/n/10.53937/5f ó $[] \OT1/ztmcm/m/n/7.52812 +
+ []
+
+[63] [64] [65] [66] (./JFM.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.78749pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 30808 strings out of 478268
+ 618106 string characters out of 5850345
+ 921587 words of memory out of 5000000
+ 47829 multiletter control sequences out of 15000+600000
+ 628643 words of font info for 515 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 116i,24n,119p,1823b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows
+/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei
+.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
+s/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Wind
+ows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf>
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/F
+onts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/W
+indows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.t
+tf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/
+simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Window
+s/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c
+:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simka
+i.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fon
+ts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Win
+dows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf
+><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/si
+mkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/
+Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.
+ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts
+/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windo
+ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
+c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simk
+ai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fo
+nts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Wi
+ndows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.tt
+f><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/s
+imkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows
+/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
+indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
+tc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>{e:/texlive/2022/t
+exmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
+/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
+ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
+c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
+un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.tt
+c><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/s
+imsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows
+/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun
+.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+sun.ttc><c:/Windows/Fonts/simsun.ttc><e:/texlive/2022/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb><e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<e:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><e:/
+texlive/2022/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><e:/texlive/2022/texmf-
+dist/fonts/type1/urw/symbol/usyr.pfb><e:/texlive/2022/texmf-dist/fonts/type1/ur
+w/times/utmb8a.pfb><e:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
+><e:/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on JFM.pdf (66 pages, 1414424 bytes).
+PDF statistics:
+ 1042 PDF objects out of 1200 (max. 8388607)
+ 662 compressed objects within 7 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 435 words of extra memory for PDF output out of 10000 (max. 10000000)
+
